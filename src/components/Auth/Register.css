@@ -1,0 +1,30 @@
+.register {
+  margin: 100px auto;
+  width: 50%;
+  height: auto;
+}
+
+.registerForm {
+  display: flex;
+  height: auto;
+  flex-direction: column;
+}
+
+.registerForm h1 {
+  text-align: center;
+}
+
+.registerForm button {
+  align-self: center;
+  text-align: center;
+  padding: 1rem;
+  max-width: 100px;
+}
+
+.registerSection {
+  display: flex;
+  margin: auto;
+  padding: 0.5rem;
+  flex-direction: column;
+  width: 70%;
+}
